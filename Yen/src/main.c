@@ -3,10 +3,10 @@
 #include <sys/time.h>
 #include <sys/resource.h>
 #include <unistd.h>
-#include "file_io.h"
-#include "graph.h"
-#include "paths.h"
-#include "yen.h"
+#include "../include/file_io.h"
+#include "../include/graph.h"
+#include "../include/paths.h"
+#include "../include/yen.h"
 
 int main(int argc, char **argv) {
     struct timeval start, end;

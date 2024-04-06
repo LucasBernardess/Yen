@@ -1,5 +1,5 @@
-#include "dijkstra.h"
-#include "paths.h"
+#include "../include/dijkstra.h"
+#include "../include/paths.h"
 #include <stdio.h>
 #include <limits.h>
 

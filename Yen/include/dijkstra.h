@@ -1,8 +1,8 @@
 #ifndef DIJKSTRA_H
 #define DIJKSTRA_H
 
-#include "graph.h"
 #include "paths.h"
+#include "graph.h"
 
 typedef struct {
     int no;

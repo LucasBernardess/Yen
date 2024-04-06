@@ -1,6 +1,6 @@
-#include "file_io.h"
-#include "yen.h"
-#include "paths.h"
+#include "../include/file_io.h"
+#include "../include/yen.h"
+#include "../include/paths.h"
 #include <stdio.h>
 
 int processInputOutput(const char *inputFileName, const char *outputFileName) {
