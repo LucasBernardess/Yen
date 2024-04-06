@@ -54,4 +54,5 @@ Isso processará o arquivo de entrada e salvará os resultados no arquivo `outpu
 Este código é disponibilizado sob a Licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
 
 ---
-Autor: [Seu Nome]
+Autor: Lucas Bernardes
+
